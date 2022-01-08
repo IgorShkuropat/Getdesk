@@ -152,7 +152,7 @@ ul {
   display: flex;
   align-items: center;
 }
-.form__label input:checked .form__checkbox + img {
+.form__label input:checked .form__checkbox img {
   display: block;
 }
 .form__checkbox {
